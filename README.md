@@ -5,7 +5,7 @@
 
 It is an app that encompasses many functionalities listed as follows:-
 
-<--Firebase components-->
+# <--Firebase components-->
 
  --> Authentication
  
@@ -13,7 +13,7 @@ It is an app that encompasses many functionalities listed as follows:-
  
  --> Storage
  
- <-- Other features Used -->
+# <-- Other features Used -->
  
 --> Firebase Recycler view -> it renders data in a scrollable manner and updates the data in a real-time environment.
 
